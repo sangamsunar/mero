@@ -1,0 +1,6 @@
+img{
+  height:300px;
+  width: 250px;
+  object-fit:cover;
+  border-radius: 30px;
+}
